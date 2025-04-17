@@ -1,0 +1,7 @@
+streamlit
+loguru
+python-dotenv
+requests
+openai
+
+
